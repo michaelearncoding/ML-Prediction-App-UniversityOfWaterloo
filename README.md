@@ -12,4 +12,7 @@ Mobile app (Kotlin) + backend ML API for realworld related prediction.
 * [Team Contract](google.com)
 
 
+* [Project Proposal](./wiki/Project-Proposal)
+
+
 
